@@ -84,13 +84,13 @@ a:focus, a:hover {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	min-height: 500px;
+	min-height: 650px;
 	position: relative;
 }
 .banner-agile .container {
 	width: 100%;
 	position: absolute;
-	bottom: 25%;
+	bottom: 35%;
 }
 .banner-info-w3l  {
 	padding:13em 0 0;
@@ -142,7 +142,7 @@ a:focus, a:hover {
 	-ms-transition: 0.5s all;
 }
 .banner-info-w3l h4 a:hover {
-    background: #a00786c4;
+    background: rgb(170, 5, 170);
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-o-transition: 0.5s all;
@@ -169,7 +169,7 @@ a:focus, a:hover {
 	border: 1px solid #fff;
 }
 .banner-link:hover {
-    background:#a00786c4;
+    background: rgb(170, 5, 170);
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-o-transition: 0.5s all;
@@ -181,7 +181,7 @@ a:focus, a:hover {
 }
 /*-- header-nav --*/
 .nav-agile {
-    background:#a00786c4;
+    background:rgb(170, 5, 170);
 }
 .navbar-default {
 	background-color:Transparent;
@@ -345,7 +345,7 @@ div#wthreeskills h3, .wthreeskills h3{
 	font-size: 16px;
 }
 .about-link:hover{
-	color: #07CA79;
+	color: rgb(170, 5, 170);
 }
 .about-link .fa-linkedin, .about-link .fa-github{
 	color: #1F79C7;
@@ -393,7 +393,7 @@ div#wthreeskills h3, .wthreeskills h3{
 /* Effect 2 */
  .hovicon.effect-2 {
     color: #fff;
-	box-shadow:0 0 0 3px #a00786c4;
+	box-shadow:0 0 0 3px rgb(170, 5, 170);
     -webkit-transition: color 0.3s;
     -moz-transition: color 0.3s;
     transition: color 0.3s;
@@ -403,7 +403,7 @@ div#wthreeskills h3, .wthreeskills h3{
     left: -2px;
     padding: 2px;
     z-index: -1;
-    background:#a00786c4;
+    background:rgb(170, 5, 170);
     -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
     transition: transform 0.2s, opacity 0.2s;
@@ -493,8 +493,8 @@ div#wthreeskills h3, .wthreeskills h3{
 
 	.resp-tab-active {
 		text-shadow: none;
-		background-color: #07cb79;
-		border-bottom: 1px solid #07cb79;
+		background-color:rgb(170, 5, 170);
+		border-bottom: 1px solid rgb(170, 5, 170);
 	}
 
 	.resp-tab-active span {
@@ -606,7 +606,7 @@ div#wthreeskills h3, .wthreeskills h3{
 		float: left;
 		left: 100%;
 		padding: 4px 10px 7px 10px;
-		background-color:#a00786c4;
+		background-color:rgb(170, 5, 170);
 		-webkit-transform: translateX(-50%) translateY(-30px);
 		-ms-transform: translateX(-50%) translateY(-30px);
 		transform: translateX(-50%) translateY(-30px);
@@ -635,7 +635,7 @@ div#wthreeskills h3, .wthreeskills h3{
 		display: block;
 		border-style: solid;
 		border-width: 5px 5px 0 5px;
-		border-color: #a00786c4 transparent transparent transparent;
+		border-color: rgb(170, 5, 170)transparent transparent transparent;
 	}
 
 	.b_label {
@@ -664,7 +664,7 @@ h3.agileits-title{
     height: 235px;
     margin: 0px 0;
     text-align: center;
-    border: 5px solid  #a00786c4;
+    border: 5px solid  rgb(170, 5, 170);
     -webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	-o-transition: all 0.3s;
@@ -697,7 +697,7 @@ h3.agileits-title{
 	-ms-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
 	-o-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
     transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    color: #a00786c4;
+    color: rgb(170, 5, 170);
     font-size: 2em;
     opacity: 0;
 }
@@ -772,7 +772,7 @@ ul#myList {
 	width: 14%;
 	margin-right: 1em;
 	display: inline-block;
-	border: 1px solid #a00786c4;
+	border: 1px solid rgb(170, 5, 170);
 	font-size: 1.1em;
 	position: relative;
 	transition: 0.5s all ease;
@@ -785,7 +785,7 @@ ul#myList {
 }
 
 #loadMore:hover {
-	background-color: #a00786c4;
+	background-color:rgb(170, 5, 170);
 	color: #fff;
 }
 
@@ -797,7 +797,7 @@ ul#myList {
 	width: 14%;
 	margin-right: 1em;
 	display: inline-block;
-	border: 1px solid #a00786c4;
+	border: 1px solid rgb(170, 5, 170);
 	font-size: 1.1em;
 	position: relative;
 	/*--w3layouts--*/
@@ -812,7 +812,7 @@ ul#myList {
 }
 
 #showLess:hover {
-	background-color: #a00786c4;
+	background-color:rgb(170, 5, 170);
 	color: #fff;
 }
 
@@ -841,7 +841,7 @@ li.aitsaitsresumewthreeli-1 {
 
 .work-info h4 {
 	font-size: 1.2em;
-	background:#a00786c4;
+	background:rgb(170, 5, 170);
 	display: inline-block;
 	padding: 12px 30px;
 	color: #fff;
@@ -856,7 +856,7 @@ li.aitsaitsresumewthreeli-1 {
 	right: -14px;
 	border-style: solid;
 	border-width: 10px 0 10px 16px;
-	border-color: transparent transparent transparent #a00786c4;
+	border-color: transparent transparent transparent rgb(170, 5, 170);
 }
 .work-info h5 {
 	font-size: 16px;
@@ -988,7 +988,7 @@ input[type="submit"] {
     font-size: 1.1em;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background: #07cb79;
+    background:rgb(170, 5, 170);
     color: white;
     border: none;
     outline: none;
